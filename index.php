@@ -16,7 +16,7 @@
     <ul class="nav navbar-nav">
       <!--Drop down menu-->
       <li class="dropdown">
-        <console.log=$0 a href="#" class="dropdown-toggle" data-toggle="dropdown" id="text">Men<span class="caret"></span></a>
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="text">Men<span class="caret"></span></a>
         <ul class="dropdown-menu" role="menu">
           <li><a href="#">Shirts</a></li>
           <li><a href="#">Pants</a></li>
