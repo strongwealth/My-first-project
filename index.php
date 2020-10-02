@@ -13,6 +13,7 @@
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <!--<a href="/tutorial/index.php" class="navbar-brand">Red Stone Shop</a>-->
+    <a href="/tutorial/index.php" class="navbar-brand">Red Stone Shop</a>
     <ul class="nav navbar-nav">
       <!--Drop down menu-->
       <li class="dropdown">
