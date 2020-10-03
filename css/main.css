@@ -56,8 +56,7 @@ padding-right: 20px;
   margin-top:0px;
 }
 
-#images{/*
-  display: flex;
-  align-items: center;
-  justify-content: center;
+#images{
+  width:auto;
+  height: 200px;
 }

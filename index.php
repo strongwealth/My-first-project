@@ -41,7 +41,7 @@
 <div class="" style="display:flex; justify-content:center">
 
 <!-- main content of featured products-->
-  <div class="col-md-9">
+  <div class="col-md-8">
 
     <h2 class="text-center">Featured Products</h2>
     <div class="row">
