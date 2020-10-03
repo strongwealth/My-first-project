@@ -60,3 +60,8 @@ padding-right: 20px;
   width:auto;
   height: 200px;
 }
+#footer{
+  margin-top: 50px;
+  background-color: #800000;
+  color:#FFFFFF;
+}
