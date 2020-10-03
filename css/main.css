@@ -1,0 +1,56 @@
+body{
+  padding-top:20
+}
+#navbar{
+  /*background-color:#FFF0000;*/
+  background-color:#990000;
+  }
+#text{
+  background-color: #000000;
+  color:#FFFFFF;
+  border-radius: 20px;
+padding-left:20px;
+padding-right: 20px;
+
+}
+#background-image{
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height: 600px;
+  background-image:url(../images/gray.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 700px;
+  background-position: top center;
+  background-attachment: fixed;
+}
+#image-1{
+  position:absolute;
+  width:100%;
+  height:600px;
+  background-image:url(../images/elaptop.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-size: auto 500px;
+  top:60px;
+  margin-left:50px;
+}
+#image-2{
+  position:absolute;
+  width:100%;
+  height:300px;
+  margin-left: -100px;
+  background-image:url(../images/backgroundd.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size:200px;
+  top:0%;
+  margin-top:0px;
+}
+
+#images{/*
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
