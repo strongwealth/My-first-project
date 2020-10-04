@@ -54,8 +54,8 @@
     </div>
 
     <div class="col-md-3">
-      <h4>Addidas Football</h4>
-      <img src="images/addidas.jpg" alt="Addidas Football" id="images"/>
+      <h4> Football</h4>
+      <img src="images/addidas.jpg" alt="Football" id="images"/>
       <p class="list-price text-danger">List price: <s>$39.99</s></p>
       <p class="price">Our price: $29.99</p>
       <button type="button" class="btn btn-success" data-toggle="modal" data-target="#details-2">Details</button>
@@ -113,6 +113,17 @@
 </div>
 </div>
   <footer class="text-center" id="footer">&copy; Copyright 2019-2020 Red Stone shop</footer>
-  </body>
 
+  <!--detail module-->
+  <?php include 'details-modal-levisjeans.php';
+        include 'details-modal-Football.php';
+        include 'details-modal-watch.php';
+        include 'details-modal-poloshirt.php';
+        include 'details-modal-Headband.php';
+        include 'details-modal-Shoes.php';
+        include 'details-modal-Tennisball.php';
+        include 'details-modal-bag.php';
+        ?>
+    <!--end of detail modal-->
+  </body>
 </html>
