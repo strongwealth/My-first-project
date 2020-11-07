@@ -1,78 +1,80 @@
 body{
-  padding-top:20
-}
-
-#navbar{
-  /*background-color:#FFF0000;*/
-  background-color:#990000;
+  padding-top: 50px;
   }
 
-  .dropdown-menu{
-    z-index: 30;
-    position:absolute !important;
+.navbar{
+  /*background-color: #FFF0000;*/
+  background-color: #800000;
   }
-
+/*Change color to White*/
 #text{
   background-color: #000000;
-  color:#FFFFFF;
-  border-radius: 20px;
-padding-left:20px;
-padding-right: 20px;
-
+  color: #FFFFFF;
 }
+
 #background-image{
   position: relative;
-  padding: 0;
+  padding:0;
   margin: 0;
-  overflow: hidden;
-  height: 600px;
-  background-image:url(../images/gray.jpg);
+  overflow:hidden;
+  height:600px;
+  background-image: url(../images/gray.jpg);
   background-repeat: no-repeat;
   background-size: 100% 700px;
   background-position: top center;
   background-attachment: fixed;
 }
+
 #image-1{
-  position:absolute;
-  width:100%;
-  height:600px;
-  background-image:url(../images/elaptop.png);
+  position: absolute;
+  width: 100%;
+  height: 350px;
+  background-image: url(../images/ecommerce2.jpg);
   background-repeat: no-repeat;
-  background-position: top left;
-  background-size: auto 500px;
-  top:60px;
-  margin-left:50px;
+  background-position: left bottom;
+  background-size: auto 200px;
+  top: -100px;
+  left: -25px;
 }
+
 #image-2{
-  position:absolute;
-  width:100%;
-  height:300px;
+  position: absolute;
+  width: 100%;
+  height: 400px;
   margin-left: -100px;
-  background-image:url(../images/backgroundd.png);
+  background-image: url(../images/square.png);
   background-repeat: no-repeat;
   background-position: top right;
-  background-size:200px;
-  top:0%;
-  margin-top:0px;
+  background-size: auto;
+  top: 8%;
+  margin-top: 70px;
 }
 
 #images{
   width:auto;
   height: 200px;
 }
+
 #footer{
   margin-top: 50px;
   background-color: #800000;
-  color:#FFFFFF;
+  color: #FFFFFF;
 }
+
 #quantity{
-width: auto;
+  margin-left: -16px;
 }
+
 #quantity-label{
-width: auto;
+  margin-left: -16px;
 }
+
+
 img.details{
   width:auto;
   margin: 15px auto;
   height: 200px;
+}
+#cartbutton{
+    color: #FFFFFF;
 }
